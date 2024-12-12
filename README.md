@@ -13,10 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Luisangel Esparza</h1>
-<h3 align="center">A passionate student exploring the limitless creativity in technology! </h3>
+<h1 align="left">⚡️Luisangel</h1>
 
-### Connect with me 📲
+<p>
+  Hello, I am a Junior attending the University of Houston. Check out my github and feel free to reach out! I am currently an active member of the Computer Science organization CougarCS, at the University of Houston where I help in operating events.
+</p>
+
+##### Connect with me
 <!-- 
 Add Social Media Platforms
 LinkedIn
@@ -30,24 +33,7 @@ LinkedIn
 
 ### Languages and Tools 🧰
 
-<!--
-In Order:
-C++
-Python
-Javascript
-HTML
-CSS
-GitHub
-Git
--->
-
-<img align="left" alt="C++" width="40" height="40" class="no-link" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Python" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="JavaScript" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="HTML" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-<img align="left" alt="CSS" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-<img align="left" alt="GitHub" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-<img align="left" alt="Git" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,r,cs,dotnet,html,css,docker,aws,js,react,mysql,linux,jenkins,raspberrypi,vscode,visualstudio)](https://skillicons.dev/)
 
 <br>
 
