@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="left">⚡️Luisangel</h1>
 
 <p>
-  Hello, I am a Junior attending the University of Houston. Check out my github and feel free to reach out! I am currently an active member of the Computer Science organization CougarCS, at the University of Houston where I help in operating events.
+  Hello, I am a Senior attending the University of Houston. Check out my github and feel free to reach out! I am currently an active officer within the Computer Science organization CougarCS, at the University of Houston as Webmaster!
 </p>
 
 ##### Connect with me
